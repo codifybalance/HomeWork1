@@ -2,7 +2,7 @@
 public class UserManager {
 	
  	public void add() {
- 		System.out.println("Kullanıcı eklendi.");
+ 		System.out.println("KullanÃ½cÃ½ eklendi.");
 	}
 	public void addInstructor(Instructor instructor) {
 		
@@ -13,8 +13,5 @@ public class UserManager {
 
  	
 	
-//	public void log(String message) {
-//		System.out.println("Default logger : "+message);
-//	}
 		
 }
