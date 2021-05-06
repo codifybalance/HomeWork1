@@ -10,8 +10,5 @@ public class UserManager {
 	public void addStudent(Student student) {
 
 	}
-
- 	
-	
 		
 }
